@@ -1,0 +1,15 @@
+#subscription-userinfo: upload=1; download=1; total=1; expire=999999999999999
+#profile-title: Dizz VPN ⚡
+#profile-update-interval: 1
+#subscription-update-interval: 1
+#announce: ОБХОД БС ТОЛЬКО ПРИ БЕСПИЛОТНОЙ ОПАСНОСТИ‼️‼️ | Не используйте много трафика! 🌐💙
+#support-url: https://t.me/zurts
+#profile-web-page-url: https://t.me/VPN_GhostLink
+hysteria2://gIJ4vK3Ssp3iFuu33zxjmyytv9iE7usc@multi.fresedvpn.site:63444/?sni=multi.fresedvpn.site&alpn=h3#%E2%AC%9C%20WhatsApp%2CTelegram%2CYoutube
+vless://372b4dd4-9ffd-4f8b-8c0d-b4435be8ce7e@multi.fresedvpn.site:30444?encryption=none&security=reality&sni=m.vk.com&fp=chrome&pbk=TFrKI8xIRK9zUEgtEwIRCS0pXsEiQ4sYzY4W3-zBEDc&sid=5d82724965a13cfb&type=grpc&serviceName=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Brawl%20Stars%20%E2%9A%A1
+vless://372b4dd4-9ffd-4f8b-8c0d-b4435be8ce7e@multi.fresedvpn.site:2083?encryption=none&type=ws&host=rebus.rustore.ru&path=%2Fapi%2Fv3%2Fws#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://372b4dd4-9ffd-4f8b-8c0d-b4435be8ce7e@multi.fresedvpn.site:19444?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=qsnavDVJFVggyM4zrgJFdK7AOVsGyjATd81PmnDAMDc&sid=3fdf5dfa97edd782&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20auto%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+hysteria2://gIJ4vK3Ssp3iFuu33zxjmyytv9iE7usc@multi.fresedvpn.site:64444/?sni=multi.fresedvpn.site&alpn=h3#%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD
+vless://372b4dd4-9ffd-4f8b-8c0d-b4435be8ce7e@multi.fresedvpn.site:31444?encryption=none&security=reality&sni=m.vk.com&fp=chrome&pbk=TFrKI8xIRK9zUEgtEwIRCS0pXsEiQ4sYzY4W3-zBEDc&sid=6ae4dc4c3273a079&type=grpc&serviceName=grpc#%F0%9F%87%AA%F0%9F%87%BA%20%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9%20%E2%9A%A1
+vless://372b4dd4-9ffd-4f8b-8c0d-b4435be8ce7e@multi.fresedvpn.site:29444?encryption=none&security=reality&sni=m.vk.com&fp=chrome&pbk=TFrKI8xIRK9zUEgtEwIRCS0pXsEiQ4sYzY4W3-zBEDc&sid=8fbd4381c5a1d0cc&type=grpc&serviceName=grpc#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+vless://372b4dd4-9ffd-4f8b-8c0d-b4435be8ce7e@multi.fresedvpn.site:23444?encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=qsnavDVJFVggyM4zrgJFdK7AOVsGyjATd81PmnDAMDc&sid=79cc65dd642afee0&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
